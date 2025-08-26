@@ -15,7 +15,11 @@ ASCII Shadow Banner • Proxy Support • Multi-threaded • Colored Output • 
 
 <img width="1044" height="576" alt="image" src="https://github.com/user-attachments/assets/aa96906b-d3a3-4326-8b8e-f813bd20ecd3" />
 
-<img width="802" height="494" alt="image" src="https://github.com/user-attachments/assets/73ecc683-92db-40d4-9a39-6358071d65ad" />
+<hr>
+
+<img width="877" height="280" alt="image" src="https://github.com/user-attachments/assets/f3b18594-1272-4c72-9f57-1f7f63bd4bdd" />
+
+<hr>
 
 <h2>✨ Features</h2>
 <ul>
