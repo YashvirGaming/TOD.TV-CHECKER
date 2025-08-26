@@ -13,6 +13,10 @@ ASCII Shadow Banner • Proxy Support • Multi-threaded • Colored Output • 
 
 <hr>
 
+<img width="1044" height="576" alt="image" src="https://github.com/user-attachments/assets/aa96906b-d3a3-4326-8b8e-f813bd20ecd3" />
+
+<img width="802" height="494" alt="image" src="https://github.com/user-attachments/assets/73ecc683-92db-40d4-9a39-6358071d65ad" />
+
 <h2>✨ Features</h2>
 <ul>
   <li>✔ Full <b>httpx</b> request flow (GET → POST → GET → POST)</li>
