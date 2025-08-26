@@ -41,8 +41,8 @@ ASCII Shadow Banner • Proxy Support • Multi-threaded • Colored Output • 
 <h2>📂 File Structure</h2>
 <pre><code>.
 ├── tod_checker.py
-├── builder.bat
-├── launcher.bat
+├── Builder.bat
+├── Launcher.bat
 ├── requirements.txt
 └── Results/
 </code></pre>
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 python tod_checker.py
 
 # Or build EXE with Nuitka
-builder.bat
+Builder.bat
 </code></pre>
 
 <p>
